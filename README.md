@@ -9,3 +9,21 @@ The DanceText dataset is publicly available at [ModelScope](https://www.modelsco
 The ArXiv paper will be available in this week.
 
 The DS-Net model code will be available before conference.
+
+## Terms of Use
+
+- The DanceText dataset is available free of charge exclusively for academic, non-commercial research. **Use in any competitions (such as those on Kaggle or Tianchi) is not permitted.**
+- The DanceText dataset, in whole or in part, **may not be redistributed or incorporated into any other dataset.** This also applies to any transformed versions or derivative works.
+- Due to the dataset's significant commercial value and high creation cost, applicants and their supervisors are required to **sign two legal agreements.**
+
+## Application
+
+Researchers are welcome 😃 to apply for the dataset. To do so, please send an email from your official university email address to 202221012612@mail.scut.edu.cn with the following items:
+
+1. Scanned copies of the two legal agreements, hand-signed by both you and your supervisor.
+2. A brief introduction including your full name, your institution, and your supervisor's name, along with a link to your supervisor's Google Scholar profile.
+3. Your supervisor must be CC'd on the application email.
+4. Your ModelScope User ID.
+
+
+申请请务必遵循上述全部要求，通过教育邮箱进行。请不要微信直接问，微信问一律不予回复。谢谢配合。
