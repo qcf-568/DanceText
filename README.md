@@ -20,7 +20,7 @@ The DS-Net model code will be available before conference.
 
 Researchers are welcome 😃 to apply for the dataset. To do so, please send an email from your official university email address to 202221012612@mail.scut.edu.cn with the following items:
 
-1. Scanned copies of the two legal agreements, hand-signed by both you and your supervisor.
+1. Scanned copies of the two [legal agreements](https://github.com/qcf-568/DanceText/tree/main/legal%20agreements), hand-signed by both you and your supervisor.
 2. A brief introduction including your full name, your institution, your ModelScope user ID, and your supervisor's name, along with a link to your supervisor's Google Scholar profile.
 3. Your supervisor must be CC'd on the application email.
 
