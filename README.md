@@ -14,7 +14,7 @@ The DS-Net model code will be available before conference.
 
 - The DanceText dataset is available free of charge exclusively for academic, non-commercial research. **Use in any competitions (such as those on Kaggle or Tianchi) is not permitted.**
 - The DanceText dataset, in whole or in part, **may not be redistributed or incorporated into any other dataset.** This also applies to any transformed versions or derivative works.
-- Due to the dataset's significant commercial value and high creation cost, applicants and their supervisors are required to **sign two legal agreements.**
+- Due to the dataset's significant commercial value and high creation cost, applicants and their supervisors are required to **sign [two legal agreements](https://github.com/qcf-568/DanceText/tree/main/legal%20agreements).**
 
 ## Application
 
