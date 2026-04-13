@@ -21,9 +21,8 @@ The DS-Net model code will be available before conference.
 Researchers are welcome 😃 to apply for the dataset. To do so, please send an email from your official university email address to 202221012612@mail.scut.edu.cn with the following items:
 
 1. Scanned copies of the two legal agreements, hand-signed by both you and your supervisor.
-2. A brief introduction including your full name, your institution, and your supervisor's name, along with a link to your supervisor's Google Scholar profile.
+2. A brief introduction including your full name, your institution, your ModelScope user ID, and your supervisor's name, along with a link to your supervisor's Google Scholar profile.
 3. Your supervisor must be CC'd on the application email.
-4. Your ModelScope User ID.
 
 
 申请请务必遵循上述全部要求，通过教育邮箱进行。请不要微信直接问，微信问一律不予回复。谢谢配合。
