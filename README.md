@@ -22,7 +22,7 @@ Researchers are welcome 😃 to apply for the dataset. To do so, please send an 
 
 1. Scanned copies of the two [legal agreements](https://github.com/qcf-568/DanceText/tree/main/legal%20agreements), **hand-signed** by both you and your supervisor.
 2. A brief introduction including your full name, your institution, your ModelScope user ID, and your supervisor's name, along with a link to your supervisor's Google Scholar profile.
-3. Your supervisor **must be CC'd on the application email.**
+3. Your supervisor **must be CC'd (抄送) on the application email.**
 
 
 申请请务必遵循上述全部要求，通过教育邮箱进行。请不要微信直接问，微信问一律不予回复。谢谢配合。
